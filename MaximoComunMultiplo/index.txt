@@ -1,0 +1,1 @@
+Programa que obtiene el Máximo Común Múltiplo de dos números. Ambos números deben estar dentro del rango de 0 a 255.
